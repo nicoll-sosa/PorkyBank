@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.17f73d9d.css",
+    "main.js": "./static/js/main.f238b3ed.js",
+    "static/media/FONDO web.png": "./static/media/FONDO web.a89b6f0d46f8dfce2b2b.png",
+    "static/media/chanchito porky.png": "./static/media/chanchito porky.4c215cc49260ec56fd1b.png",
+    "static/media/porky bank a.png": "./static/media/porky bank a.9ec1c7ac900c853bb1b8.png",
+    "static/media/porky bank.png": "./static/media/porky bank.fa9afb69e80dda83dc43.png",
+    "index.html": "./index.html",
+    "main.17f73d9d.css.map": "./static/css/main.17f73d9d.css.map",
+    "main.f238b3ed.js.map": "./static/js/main.f238b3ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f73d9d.css",
+    "static/js/main.f238b3ed.js"
+  ]
+}
